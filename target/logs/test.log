@@ -1,0 +1,6 @@
+2019-03-27 15:11:49 R [INFO] Base properties loaded: api.properties
+2019-03-27 15:11:49 R [INFO] Base properties loaded: config.properties
+2019-03-27 15:11:49 R [INFO] Base properties loaded: testdata.properties
+2019-03-27 15:11:49 R [INFO] Base properties loaded: email.properties
+2019-03-27 15:11:49 R [INFO] Base properties loaded: report.properties
+2019-03-27 15:11:49 R [INFO] Base properties loaded: database.properties
